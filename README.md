@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard - Power BI Project: 
+# Business Growth Dashboard: 
 This interactive dashboard provides insights into sales data with visualizations for tracking revenue, profit margins, customer behavior, and product performance. Built using Power BI Desktop, this report enables data-driven decision making for business stakeholders.
 
 ### 🎯 (Problem Statement)
