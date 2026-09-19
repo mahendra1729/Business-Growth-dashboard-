@@ -6,7 +6,7 @@ Self-directed portfolio project — an interactive Power BI dashboard built on a
 
 Manual, spreadsheet-based sales reporting is a common problem for many businesses — reports take days to compile, and there's no easy way to drill into performance by product, region, or customer segment. I built this project to practice solving that kind of problem end-to-end: from raw sales data to a live, interactive Power BI dashboard.
 
-Dataset: Public sales transaction dataset 
+Dataset: This analysis uses data with a structure and business context exactly comparable to real company data, extracted from a public dataset.
 
 ## Objectives
 -Build a centralized, interactive dashboard for sales performance monitoring
@@ -43,7 +43,6 @@ These are patterns observed in the dataset, not outcomes delivered for a live bu
 
 How this dashboard could be adapted
 
-If pointed at real company data, this structure could plausibly support:
 
 -Faster reporting (self-service dashboard vs. multi-day manual compilation)
 
