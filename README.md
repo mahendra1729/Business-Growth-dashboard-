@@ -48,6 +48,7 @@ If pointed at real company data, this structure could plausibly support:
 -Faster reporting (self-service dashboard vs. multi-day manual compilation)
 -Earlier visibility into underperforming products/regions
 -Data-backed customer segmentation for marketing
+
 Tools
 
 Power BI Desktop · DAX · Power Query · Star schema data modeling
